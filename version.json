@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 2,
-  "Siraj": "1.1.2",
-  "apkUrl": "https://github.com/quranschool39-cyber/app-updates/releases/download/QURAN/siraj.apk",
+  "latestVersionCode": 3,
+  "Siraj": "1.1.3",
+  "apkUrl": "https://github.com/quranschool39-cyber/app-updates/releases/download/v1.1.3/siraj.apk",
   "forceUpdate": true,
   "releaseNotes": "• تحسين سرعة التطبيق بنسبة 30%\n• إصلاح مشكلة تسجيل الدخول\n• دعم كامل للوضع الليلي"
 }
