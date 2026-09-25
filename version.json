@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1.1",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0.1",
   "apkUrl": "https://github.com/quranschool39-cyber/app-updates/releases/download/ME/app-debug.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "releaseNotes": "• مميزات جديدة وإصلاحات لتطبيق سراج"
 }
